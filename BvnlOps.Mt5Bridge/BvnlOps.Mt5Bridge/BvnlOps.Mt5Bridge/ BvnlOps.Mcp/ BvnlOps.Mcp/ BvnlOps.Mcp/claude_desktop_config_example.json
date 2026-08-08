@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "bvnl-mt5": {
+      "command": "C:\\BVNL\\mcp\\BvnlOps.Mcp.exe",
+      "env": {
+        "BVNL_ALLOW_TRADING": "0"
+      }
+    }
+  }
+}
